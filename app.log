@@ -1,0 +1,248 @@
+2019-07-24 14:04:58,164 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9194 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:04:58,166 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:05:02,118 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:05:02,119 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:05:02,290 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:05:02,871 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+2019-07-24 14:05:03,119 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field journeyPriceDao in com.rob.service.impl.JourneyServiceImpl required a bean of type 'com.rob.dao.IJourneyPriceDao' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.rob.dao.IJourneyPriceDao' in your configuration.
+
+2019-07-24 14:05:59,633 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:05:59,645 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:06:02,216 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:06:02,217 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:06:02,361 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:06:03,710 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:06:04,285 INFO com.rob.app.App [restartedMain] Started App in 5.14 seconds (JVM running for 5.668)
+2019-07-24 14:06:04,285 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:07:00,718 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:07:00,776 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:07:00,778 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:07:01,349 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:07:01,350 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:07:01,359 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:07:01,662 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:07:01,815 INFO com.rob.app.App [restartedMain] Started App in 1.089 seconds (JVM running for 63.197)
+2019-07-24 14:07:01,815 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:07:19,324 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:07:19,357 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:07:19,357 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:07:19,708 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:07:19,709 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:07:19,714 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:07:20,023 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:07:20,138 INFO com.rob.app.App [restartedMain] Started App in 0.811 seconds (JVM running for 81.521)
+2019-07-24 14:07:20,138 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:07:34,682 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:07:34,737 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:07:34,738 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:07:35,080 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:07:35,081 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:07:35,085 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:07:35,325 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:07:35,432 INFO com.rob.app.App [restartedMain] Started App in 0.746 seconds (JVM running for 96.814)
+2019-07-24 14:07:35,433 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:07:51,924 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:07:51,959 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:07:51,960 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:07:52,279 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:07:52,280 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:07:52,285 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:07:52,639 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:07:52,742 INFO com.rob.app.App [restartedMain] Started App in 0.815 seconds (JVM running for 114.124)
+2019-07-24 14:07:52,742 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:07:58,197 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:07:58,261 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:07:58,262 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:07:58,646 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:07:58,646 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:07:58,658 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:07:58,936 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:07:59,015 INFO com.rob.app.App [restartedMain] Started App in 0.815 seconds (JVM running for 120.398)
+2019-07-24 14:07:59,015 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:08:19,562 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:08:19,603 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:08:19,603 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:08:19,929 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:08:19,930 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:08:19,957 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:08:20,160 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:08:20,223 INFO com.rob.app.App [restartedMain] Started App in 0.658 seconds (JVM running for 141.606)
+2019-07-24 14:08:20,224 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:08:23,698 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:08:23,745 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:08:23,746 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:08:24,109 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:08:24,110 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:08:24,121 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:08:24,361 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:08:24,419 INFO com.rob.app.App [restartedMain] Started App in 0.717 seconds (JVM running for 145.802)
+2019-07-24 14:08:24,419 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:08:31,975 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:08:32,004 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:08:32,004 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:08:32,349 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:08:32,349 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:08:32,353 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:08:32,524 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:08:32,622 INFO com.rob.app.App [restartedMain] Started App in 0.643 seconds (JVM running for 154.005)
+2019-07-24 14:08:32,622 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:08:47,289 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:08:47,412 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:08:47,413 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:08:47,842 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:08:47,843 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:08:47,867 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:08:48,080 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:08:48,171 INFO com.rob.app.App [restartedMain] Started App in 0.86 seconds (JVM running for 169.554)
+2019-07-24 14:08:48,172 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:09:10,753 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:09:10,819 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:09:10,819 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:09:11,132 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:09:11,134 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:09:11,165 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:09:11,376 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:09:11,438 INFO com.rob.app.App [restartedMain] Started App in 0.676 seconds (JVM running for 192.821)
+2019-07-24 14:09:11,439 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:09:16,945 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:09:16,975 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:09:16,975 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:09:17,250 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:09:17,250 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:09:17,256 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:09:17,434 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:09:17,492 INFO com.rob.app.App [restartedMain] Started App in 0.544 seconds (JVM running for 198.875)
+2019-07-24 14:09:17,492 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:09:25,037 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:09:25,067 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:09:25,067 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:09:25,389 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:09:25,390 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:09:25,397 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:09:25,479 INFO org.apache.catalina.core.StandardService [restartedMain] Stopping service [Tomcat]
+2019-07-24 14:09:25,497 ERROR org.springframework.boot.SpringApplication [restartedMain] Application startup failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'genericCxfRestImpl' defined in file [/home/ist-134/work_java8/JavaExercise/target/classes/com/rob/rest/impl/GenericCxfRestImpl.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.rob.rest.impl.GenericCxfRestImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "CustomerRestImpl", delete this token
+	Syntax error, type annotations are available only when source level is at least 1.8
+	Syntax error, type annotations are available only when source level is at least 1.8
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1155) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1099) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122) ~[spring-boot-1.5.6.RELEASE.jar:1.5.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:693) [spring-boot-1.5.6.RELEASE.jar:1.5.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:360) [spring-boot-1.5.6.RELEASE.jar:1.5.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303) [spring-boot-1.5.6.RELEASE.jar:1.5.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1118) [spring-boot-1.5.6.RELEASE.jar:1.5.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1107) [spring-boot-1.5.6.RELEASE.jar:1.5.6.RELEASE]
+	at com.rob.app.App.main(App.java:21) [classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_111]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_111]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_111]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_111]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49) [spring-boot-devtools-1.5.6.RELEASE.jar:1.5.6.RELEASE]
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.rob.rest.impl.GenericCxfRestImpl]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "CustomerRestImpl", delete this token
+	Syntax error, type annotations are available only when source level is at least 1.8
+	Syntax error, type annotations are available only when source level is at least 1.8
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1147) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "CustomerRestImpl", delete this token
+	Syntax error, type annotations are available only when source level is at least 1.8
+	Syntax error, type annotations are available only when source level is at least 1.8
+
+	at com.rob.rest.impl.GenericCxfRestImpl.<init>(GenericCxfRestImpl.java:21) ~[classes/:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:1.8.0_111]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[na:1.8.0_111]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[na:1.8.0_111]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) ~[na:1.8.0_111]
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142) ~[spring-beans-4.3.10.RELEASE.jar:4.3.10.RELEASE]
+	... 24 common frames omitted
+2019-07-24 14:09:32,916 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:09:32,942 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:09:32,942 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:09:33,248 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:09:33,248 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:09:33,273 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:09:33,465 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:09:33,521 INFO com.rob.app.App [restartedMain] Started App in 0.6 seconds (JVM running for 214.904)
+2019-07-24 14:09:33,522 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:09:48,112 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:09:48,138 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:09:48,138 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:09:48,483 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:09:48,487 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:09:48,492 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:09:48,728 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:09:48,906 INFO com.rob.app.App [restartedMain] Started App in 0.789 seconds (JVM running for 230.288)
+2019-07-24 14:09:48,906 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:10:20,415 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:10:20,443 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:10:20,443 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:10:20,784 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:10:20,790 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:10:20,805 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:10:20,942 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:10:20,999 INFO com.rob.app.App [restartedMain] Started App in 0.581 seconds (JVM running for 262.381)
+2019-07-24 14:10:20,999 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:10:24,686 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:10:24,711 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:10:24,711 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:10:24,975 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:10:24,975 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:10:24,980 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:10:25,212 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:10:25,290 INFO com.rob.app.App [restartedMain] Started App in 0.601 seconds (JVM running for 266.673)
+2019-07-24 14:10:25,290 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:10:32,042 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:10:32,150 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:10:32,157 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:10:32,489 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:10:32,489 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:10:32,493 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:10:32,625 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:10:32,683 INFO com.rob.app.App [restartedMain] Started App in 0.612 seconds (JVM running for 274.065)
+2019-07-24 14:10:32,683 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:11:13,275 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:11:13,304 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:11:13,304 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:11:13,631 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:11:13,631 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:11:13,636 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:11:13,824 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:11:13,891 INFO com.rob.app.App [restartedMain] Started App in 0.612 seconds (JVM running for 315.273)
+2019-07-24 14:11:13,891 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
+2019-07-24 14:11:53,488 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] spring boot intilization started....
+2019-07-24 14:11:53,518 INFO com.rob.app.App [restartedMain] Starting App on ist134 with PID 9334 (/home/ist-134/work_java8/JavaExercise/target/classes started by ist-134 in /home/ist-134/work_java8/JavaExercise)
+2019-07-24 14:11:53,518 INFO com.rob.app.App [restartedMain] No active profile set, falling back to default profiles: default
+2019-07-24 14:11:53,777 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2019-07-24 14:11:53,778 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet Engine: Apache Tomcat/8.5.16
+2019-07-24 14:11:53,781 INFO org.apache.catalina.core.ContainerBase.[Tomcat-1].[localhost].[/JavaExercise] [localhost-startStop-1] Initializing Spring embedded WebApplicationContext
+2019-07-24 14:11:53,950 INFO org.apache.cxf.endpoint.ServerImpl [restartedMain] Setting the server's publish address to be /
+2019-07-24 14:11:54,000 INFO com.rob.app.App [restartedMain] Started App in 0.508 seconds (JVM running for 355.383)
+2019-07-24 14:11:54,001 INFO com.rob.service.impl.JourneyServiceImpl [restartedMain] Done....
